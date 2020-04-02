@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+.col-25 {
+    float: left;
+    width: 25%;
+    margin-top: 6px;
+}
+
+.col-75 {
+    float: left;
+    width: 75%;
+    margin-top: 6px;
+}
+
+.form-gap {
+	align-content: center;
+    padding-top: 70px;
+}
